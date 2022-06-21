@@ -1,0 +1,15 @@
+- top three artists
+- top three songs
+- top three albums
+
+- most streamed song and the number of times it was played.
+- most streamed album
+- most streamed artist
+- all the genres i listened to and what was the top 3
+- total minutes listened to on spotify and compared to other users hwo it stood out (do this by adding up the msPlayed var)
+
+- how  much time you spent listening to a song or an album and I could also tell how much more or less that was compared to other people based on global data of that very song or the album.
+
+
+
+// maybe look into if this data could be used to predict next year's top artist or song.
