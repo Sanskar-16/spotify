@@ -1,9 +1,9 @@
 - top three artists
 - top three songs
-- top three albums
+- top three albums **
 
 - most streamed song and the number of times it was played.
-- most streamed album
+- most streamed album **
 - most streamed artist
 - all the genres i listened to and what was the top 3
 - total minutes listened to on spotify and compared to other users hwo it stood out (do this by adding up the msPlayed var)
@@ -17,3 +17,8 @@
 
 start by noting down the needs and basic variables I would need to go ahead with all the analysis and visualisation. 
 Don't waste time by jsut trying stuff.
+
+** need to add an album fcolumn in the songs csv out of the playlists json, converting it to csv and then analysing what album was most listened to might be another analytic
+
+
+1 start by making a copy of the data to remove the endtime/datae column
