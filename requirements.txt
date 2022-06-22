@@ -13,3 +13,7 @@
 
 
 // maybe look into if this data could be used to predict next year's top artist or song.
+
+
+start by noting down the needs and basic variables I would need to go ahead with all the analysis and visualisation. 
+Don't waste time by jsut trying stuff.
