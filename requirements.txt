@@ -22,3 +22,14 @@ Don't waste time by jsut trying stuff.
 
 
 1 start by making a copy of the data to remove the endtime/datae column
+
+Main aspects of this project
+- collected the data using spotify api
+- cleaned and preprocessed the data
+- analysis 
+- visualisation
+- maybe a dashbaord
+
+
+CHECK THIS OUT THIS LETS YOU FURTHER ANALYSE USING FEATURES LIKE DANCEABLITY ETC
+https://medium.com/analytics-vidhya/easy-no-code-data-collection-using-spotifys-web-api-a381db04976b
