@@ -1,5 +1,5 @@
-- top three artists
-- top three songs
+- top three artists DONE 
+- top three songs DONE
 - top three albums **
 
 - most streamed song and the number of times it was played.
@@ -10,18 +10,13 @@
 
 - how  much time you spent listening to a song or an album and I could also tell how much more or less that was compared to other people based on global data of that very song or the album.
 
-
-
 // maybe look into if this data could be used to predict next year's top artist or song.
 
 
 start by noting down the needs and basic variables I would need to go ahead with all the analysis and visualisation. 
 Don't waste time by jsut trying stuff.
 
-** need to add an album fcolumn in the songs csv out of the playlists json, converting it to csv and then analysing what album was most listened to might be another analytic
-
-
-1 start by making a copy of the data to remove the endtime/datae column
+** need to add an album column in the songs csv out of the playlists json, converting it to csv and then analysing what album was most listened to might be another analytic
 
 Main aspects of this project
 - collected the data using spotify api
